@@ -1,0 +1,21 @@
+product_id,product_name,price,category_id
+101,Laptop,999.99,1
+102,Smartphone,499.99,1
+103,Headphones,79.99,2
+104,Monitor,199.99,3
+105,Keyboard,49.99,2
+106,Mouse,19.99,2
+107,Smartwatch,199.99,1
+108,Tablet,299.99,1
+109,Camera,499.99,1
+110,Printer,129.99,3
+111,Desk Chair,89.99,4
+112,Office Desk,159.99,4
+113,Air Conditioner,299.99,5
+114,Heater,89.99,5
+115,Refrigerator,499.99,5
+116,Blender,59.99,6
+117,Mixer,79.99,6
+118,Vacuum Cleaner,129.99,6
+119,Furniture Set,499.99,4
+120,Lamp,29.99,4

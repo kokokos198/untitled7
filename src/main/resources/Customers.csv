@@ -1,0 +1,21 @@
+customer_id,name,email,phone,delivery_address
+1,John Doe,john.doe@example.com,555-1234,123 Main St, Springfield
+2,Jane Smith,jane.smith@example.com,555-5678,456 Oak St, Metropolis
+3,Bob Johnson,bob.johnson@example.com,555-9876,789 Pine St, Smalltown
+4,Alice Williams,alice.williams@example.com,555-1122,321 Maple St, Rivertown
+5,Michael Brown,michael.brown@example.com,555-3344,654 Birch St, Oakville
+6,Emily Davis,emily.davis@example.com,555-5566,987 Cedar St, Hill Valley
+7,Daniel Garcia,daniel.garcia@example.com,555-7788,234 Pine St, Greenfield
+8,Olivia Martinez,olivia.martinez@example.com,555-9900,567 Elm St, Lakewood
+9,William Lee,william.lee@example.com,555-2233,345 Oak St, Kingsport
+10,Mia Walker,mia.walker@example.com,555-4455,456 Birch St, Clearwater
+11,James Harris,james.harris@example.com,555-6677,567 Maple St, Sun Valley
+12,Charlotte Clark,charlotte.clark@example.com,555-8899,678 Cedar St, Brookline
+13,Matthew Lewis,matthew.lewis@example.com,555-1122,789 Elm St, Rivertown
+14,Sophia Young,sophia.young@example.com,555-3344,890 Pine St, Smalltown
+15,Lucas King,lucas.king@example.com,555-5566,123 Birch St, Oakville
+16,Grace Scott,grace.scott@example.com,555-7788,234 Maple St, Kingsport
+17,Ethan Adams,ethan.adams@example.com,555-9900,345 Cedar St, Greenfield
+18,Amelia Nelson,amelia.nelson@example.com,555-2233,567 Elm St, Hill Valley
+19,Henry Carter,henry.carter@example.com,555-4455,678 Oak St, Clearwater
+20,Lily Mitchell,lily.mitchell@example.com,555-6677,789 Maple St, Sun Valley
